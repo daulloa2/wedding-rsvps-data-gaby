@@ -1,6 +1,16 @@
 {
   "families": [
     {
+      "id": "gonzalo-siguencia-y-sra",
+      "nombreFamilia": "Sr. Gonzalo Siguencia y Sra.",
+      "telefono": "",
+      "invitados": {
+        "adult": 2,
+        "kids": 0,
+        "total": 2
+      }
+    },
+    {
       "id": "james-baker-y-sra",
       "nombreFamilia": "Sr. James Baker y Sra.",
       "telefono": "",
