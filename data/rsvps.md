@@ -4,3 +4,4 @@
 | paul-castanier-y-sra | 2026-05-06 16:07:00 | Sr. Paul Castanier y Sra. | 2 | 0 | 2 | Sí |  |
 | raul-pulla-y-pareja | 2026-05-06 17:08:44 | Sr. Raúl Pulla y pareja | 2 | 0 | 2 | Sí |  |
 | carlos-ulloa-y-esposa | 2026-05-06 18:33:54 | Sr. Carlos Ulloa y esposa | 2 | 0 | 2 | Sí |  |
+| maria-jose-orellana | 2026-05-06 18:44:34 | Srta. María José Orellana | 1 | 0 | 1 | Sí |  |
