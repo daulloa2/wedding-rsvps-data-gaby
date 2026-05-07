@@ -11,6 +11,16 @@
       }
     },
     {
+      "id": "stra-emily-poma",
+      "nombreFamilia": "Srta. Emily Poma.",
+      "telefono": "",
+      "invitados": {
+        "adult": 2,
+        "kids": 0,
+        "total": 2
+      }
+    },
+    {
       "id": "gonzalo-siguencia-y-sra",
       "nombreFamilia": "Sr. Gonzalo Siguencia y Sra.",
       "telefono": "",
