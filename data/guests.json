@@ -1,6 +1,16 @@
 {
   "families": [
     {
+      "id": "marcelo-proano-y-esposa",
+      "nombreFamilia": "Sr. Marcelo Proaño y esposa.",
+      "telefono": "",
+      "invitados": {
+        "adult": 2,
+        "kids": 0,
+        "total": 2
+      }
+    },
+    {
       "id": "gonzalo-siguencia-y-sra",
       "nombreFamilia": "Sr. Gonzalo Siguencia y Sra.",
       "telefono": "",
