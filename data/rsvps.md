@@ -9,3 +9,4 @@
 | viviana-abad-e-hijos | 2026-05-06 20:08:36 | Viviana Abad e hijos | 2 | 1 | 3 | Sí |  |
 | leslie-pozo | 2026-05-07 06:00:40 | Srta. Leslie Pozo | 2 | 0 | 2 | Sí |  |
 | joaco-astudillo-y-esposa | 2026-05-07 09:11:15 | Sr. Joaco Astudillo y esposa | 2 | 0 | 2 | Sí |  |
+| carlos-eduardo-ulloa-y-novia | 2026-05-07 14:34:24 | Sr. Carlos Eduardo Ulloa y novia | 2 | 0 | 2 | Sí |  |
