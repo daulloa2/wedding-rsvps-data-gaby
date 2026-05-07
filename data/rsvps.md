@@ -6,3 +6,4 @@
 | carlos-ulloa-y-esposa | 2026-05-06 18:33:54 | Sr. Carlos Ulloa y esposa | 2 | 0 | 2 | Sí |  |
 | maria-jose-orellana | 2026-05-06 18:44:34 | Srta. María José Orellana | 1 | 0 | 1 | Sí |  |
 | david-rojas-y-esposa | 2026-05-06 18:47:49 | Sr. David Rojas y esposa | 2 | 0 | 2 | Sí |  |
+| viviana-abad-e-hijos | 2026-05-06 20:08:36 | Viviana Abad e hijos | 2 | 1 | 3 | Sí |  |
