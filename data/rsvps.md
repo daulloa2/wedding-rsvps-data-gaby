@@ -10,3 +10,4 @@
 | leslie-pozo | 2026-05-07 06:00:40 | Srta. Leslie Pozo | 2 | 0 | 2 | Sí |  |
 | joaco-astudillo-y-esposa | 2026-05-07 09:11:15 | Sr. Joaco Astudillo y esposa | 2 | 0 | 2 | Sí |  |
 | carlos-eduardo-ulloa-y-novia | 2026-05-07 14:34:24 | Sr. Carlos Eduardo Ulloa y novia | 2 | 0 | 2 | Sí |  |
+| fabian-palacios-y-familia | 2026-05-08 13:26:24 | Sr. Fabián Palacios y familia | 2 | 2 | 4 | Sí |  |
