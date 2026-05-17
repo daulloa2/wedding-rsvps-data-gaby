@@ -14,3 +14,4 @@
 | carlos-jose-chuchuca-esposa-e-hija | 2026-05-13 11:21:46 | Carlos José Chuchuca, esposa e hija | 3 | 0 | 3 | Sí |  |
 | sr-geovanny-lopez-y-sra | 2026-05-14 13:18:47 | Sr. Geovanny López y Sra. | 2 | 0 | 2 | Sí |  |
 | pablo-marquez | 2026-05-17 10:04:39 | Sr. Pablo Márquez | 1 | 0 | 1 | Sí |  |
+| sr-otto-rodas-y-sra | 2026-05-17 18:55:27 | Sr. Otto Rodas y Sra. | 2 | 0 | 2 | Sí |  |
