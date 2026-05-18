@@ -15,3 +15,4 @@
 | sr-geovanny-lopez-y-sra | 2026-05-14 13:18:47 | Sr. Geovanny López y Sra. | 2 | 0 | 2 | Sí |  |
 | pablo-marquez | 2026-05-17 10:04:39 | Sr. Pablo Márquez | 1 | 0 | 1 | Sí |  |
 | sr-otto-rodas-y-sra | 2026-05-17 18:55:27 | Sr. Otto Rodas y Sra. | 2 | 0 | 2 | Sí |  |
+| carlos-chuchuca-y-esposa | 2026-05-18 14:24:13 | Sr. Carlos Chuchuca y esposa | 2 | 0 | 2 | No |  |
