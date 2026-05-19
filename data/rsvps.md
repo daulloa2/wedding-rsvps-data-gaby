@@ -18,3 +18,4 @@
 | carlos-chuchuca-y-esposa | 2026-05-18 14:24:13 | Sr. Carlos Chuchuca y esposa | 2 | 0 | 2 | No |  |
 | santiago-ochoa | 2026-05-19 12:48:54 | Sr. Santiago Ochoa | 1 | 0 | 1 | Sí |  |
 | felipe-carpio | 2026-05-19 14:02:09 | Sr. Felipo Carpio | 1 | 0 | 1 | Sí |  |
+| mateo-hermida | 2026-05-19 14:58:06 | Sr. Mateo Hermida | 1 | 0 | 1 | Sí |  |
