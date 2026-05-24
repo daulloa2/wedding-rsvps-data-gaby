@@ -20,3 +20,4 @@
 | felipe-carpio | 2026-05-19 14:02:09 | Sr. Felipo Carpio | 1 | 0 | 1 | Sí |  |
 | mateo-hermida | 2026-05-19 14:58:06 | Sr. Mateo Hermida | 1 | 0 | 1 | Sí |  |
 | maria-eugenia-campoverde | 2026-05-22 13:51:25 | Sra. Maria Eugenia Campoverde | 1 | 0 | 1 | Sí |  |
+| francisco-moreno-y-sra | 2026-05-23 22:04:09 | Sr. Francisco Moreno y Sra. | 2 | 0 | 2 | Sí |  |
